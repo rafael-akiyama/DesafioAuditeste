@@ -31,4 +31,5 @@ Projeto web criado para automatizar o acesso aos menus e submenus do site Audite
 <p> <br />
  
  ### ***Pontos a serem considerados***
-Foi feito buscas dos elementos utilizando id, name e xpath, para ficar claro que eu consigo sair do outro lado, sei que a melhor forma é por id ou name.
+1. Foi feito buscas dos elementos utilizando id, name e xpath, para ficar claro que eu consigo sair do outro lado, sei que a melhor forma é por id ou name.
+2. Está sendo gerado relatórios sobre os testes com screenshots

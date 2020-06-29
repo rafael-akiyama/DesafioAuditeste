@@ -1,0 +1,1191 @@
+[
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#language: pt"
+      }
+    ],
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 35253745900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 783657500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "efetuar navegacao do menu Home",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-home",
+        "after": [
+          {
+            "result": {
+              "duration": 3619678000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13101525900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o usuario clicar no menu Home",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuHome()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 185449900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "o menu Home sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuHomeSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 26093854800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 489000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "efetuar navegacao do menu Quem Somos",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-quem-somos",
+        "after": [
+          {
+            "result": {
+              "duration": 4540038400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5316148400,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "o usuario clicar no menu Quem Somos",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuQuemSomos()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 2289024200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "o menu Quem Somos sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuQuemSomosSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27567989600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 235500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "efetuar navegacao do menu Cases de Sucesso",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-cases-de-sucesso",
+        "after": [
+          {
+            "result": {
+              "duration": 3227015100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 796868200,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "o usuario clicar no menu Cases de Sucesso",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuCasesDeSucesso()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 13413527300,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "o menu Cases de Sucesso sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuCasesDeSucessoSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 29431784500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 356200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "efetuar navegacao do menu Trabalhe Conosco",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-trabalhe-conosco",
+        "after": [
+          {
+            "result": {
+              "duration": 5387655100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 736256600,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "o usuario clicar no menu Trabalhe Conosco",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuTrabalheConosco()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 5880836700,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "o menu Trabalhe Conosco sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuTrabalheConoscoSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 28706371300,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 287100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "efetuar navegacao do menu Blog",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-blog",
+        "after": [
+          {
+            "result": {
+              "duration": 3791584800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 731036700,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "o usuario clicar no menu Blog",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuBlog()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 9096925200,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "o menu Blog sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuBlogSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27894700800,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 282200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "efetuar navegacao do menu Contato",
+        "description": "",
+        "id": "navegacao-menus;efetuar-navegacao-do-menu-contato",
+        "after": [
+          {
+            "result": {
+              "duration": 4416764000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 5543842400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "o usuario clicar no menu Contato",
+            "match": {
+              "location": "NavegacaoMenuSteps.oUsuarioClicarNoMenuContato()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1264756900,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "o menu Contato sera acessado",
+            "match": {
+              "location": "NavegacaoMenuSteps.oMenuContatoSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Navegacao Menus",
+    "description": "",
+    "id": "navegacao-menus",
+    "keyword": "Funcionalidade",
+    "uri": "NavegacaoMenu.feature"
+  },
+  {
+    "comments": [
+      {
+        "line": 1,
+        "value": "#language: pt"
+      }
+    ],
+    "line": 2,
+    "elements": [
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 29752239600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 301200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 3736708600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1829434400,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "o usuario clicar no Submenu Testes Automatizados",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuTestesAutomatizados()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 3402868400,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c[HISTÓRICO DE SUCESSO]\u003e but was:\u003c[Solidez de Mercado]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat br.com.web.core.BasePage.validarTexto(BasePage.java:39)\r\n\tat br.com.web.pages.NavegacaoSubmenusPage.validarTestesAutomatizados(NavegacaoSubmenusPage.java:41)\r\n\tat br.com.web.steps.NavegacaoSubmenusSteps.oSubmenuTestesAutomatizadosSeraAcessado(NavegacaoSubmenusSteps.java:19)\r\n\tat ✽.Entao o Submenu Testes Automatizados sera acessado(NavegacaoSubmenus.feature:9)\r\n",
+              "status": "failed"
+            },
+            "line": 9,
+            "name": "o Submenu Testes Automatizados sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuTestesAutomatizadosSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27144121500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 239100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 2698852300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 7503092300,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "o usuario clicar no Submenu Testes Funcionais não funcionais",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuTestesFuncionaisNãoFuncionais()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1436371200,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "o Submenu Testes Funcionais não funcionais sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuTestesFuncionaisNãoFuncionaisSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 28049286100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 219500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 15,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 2692462200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6155118100,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "o usuario clicar no Submenu Testes Manuais",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuTestesManuais()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 1401210200,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "o Submenu Testes Manuais sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuTestesManuaisSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 28962200900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 308800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 3888202600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 6799316400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "o usuario clicar no Submenu Testes Mobile",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuTestesMobile()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 876275900,
+              "error_message": "org.junit.ComparisonFailure: expected:\u003c//T[ESTES MOBILE]\u003e but was:\u003c//T[estes Mobile]\u003e\r\n\tat org.junit.Assert.assertEquals(Assert.java:115)\r\n\tat org.junit.Assert.assertEquals(Assert.java:144)\r\n\tat br.com.web.core.BasePage.validarTexto(BasePage.java:39)\r\n\tat br.com.web.pages.NavegacaoSubmenusPage.validarTestesMobile(NavegacaoSubmenusPage.java:68)\r\n\tat br.com.web.steps.NavegacaoSubmenusSteps.oSubmenuTestesMobileSeraAcessado(NavegacaoSubmenusSteps.java:50)\r\n\tat ✽.Entao o Submenu Testes Mobile sera acessado(NavegacaoSubmenus.feature:21)\r\n",
+              "status": "failed"
+            },
+            "line": 21,
+            "name": "o Submenu Testes Mobile sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuTestesMobileSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 26650154500,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 269900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 23,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 3504410400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1618826100,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "o usuario clicar no Submenu Fabrica de Testes",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuFabricaDeTestes()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 4989944100,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "o Submenu Fabrica de Testes sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuFabricaDeTestesSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 28621401400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 219000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 27,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 3061386600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1775367200,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "o usuario clicar no Submenu Consultoria",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuConsultoria()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 5765977200,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "o Submenu Consultoria sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuConsultoriaSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 28194113400,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 288100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 31,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 2661223000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 218300,
+              "status": "passed"
+            },
+            "line": 32,
+            "name": "o usuario clicar no Submenu Crowdsourced Auditeste",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuCrowdsourcedAuditeste()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 83200,
+              "status": "passed"
+            },
+            "line": 33,
+            "name": "o Submenu Crowdsourced Auditeste sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuCrowdsourcedAuditesteSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27361517600,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 210800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 2611265500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 146800,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "o usuario clicar no Submenu Alocacao de Profissionais",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuAlocacaoDeProfissionais()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 77500,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "o Submenu Alocacao de Profissionais sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuAlocacaoDeProfissionaisSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      },
+      {
+        "line": 4,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Contexto",
+        "steps": [
+          {
+            "result": {
+              "duration": 27638592200,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "que um usuario acesse a plataforma web do Auditeste",
+            "match": {
+              "location": "NavegacaoMenuSteps.queUmUsuarioAcesseAPlataformaWebDoAuditeste()"
+            },
+            "keyword": "Dado "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 229700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.takeReport(Scenario)"
+            }
+          }
+        ],
+        "line": 39,
+        "name": "efetuar navegacao do Menu Servicos",
+        "description": "",
+        "id": "navegacao-submenus;efetuar-navegacao-do-menu-servicos",
+        "after": [
+          {
+            "result": {
+              "duration": 2742789900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Util.tearDown(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Cenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 214400,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "o usuario clicar no Submenu Automação de Processos",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oUsuarioClicarNoSubmenuAutomaçãoDeProcessos()"
+            },
+            "keyword": "Quando "
+          },
+          {
+            "result": {
+              "duration": 71700,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "o Submenu Automação de Processos sera acessado",
+            "match": {
+              "location": "NavegacaoSubmenusSteps.oSubmenuAutomaçãoDeProcessosSeraAcessado()"
+            },
+            "keyword": "Entao "
+          }
+        ]
+      }
+    ],
+    "name": "Navegacao Submenus",
+    "description": "",
+    "id": "navegacao-submenus",
+    "keyword": "Funcionalidade",
+    "uri": "NavegacaoSubmenus.feature"
+  }
+]

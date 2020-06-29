@@ -26,8 +26,7 @@ Projeto web criado para automatizar o acesso aos menus e submenus do site Audite
 1. Clonar o repositório
 2. Importar o projeto para a IDE
 3. Instalar plugin Cucumber (Ex. no Eclipse > Help > Eclipse Marketplace > Find > Digitar Cucumber > Install)
-4. Alterar encoding para UTF-8 (Ex. no Eclipse > Properties > Resource > Text file encoding > UTF-8)
-5. Executar a classe Runner (DesafioAuditeste > src/test/java > br.com.web.runners > Runner.java)
+4. Executar a classe Runner (DesafioAuditeste > src/test/java > br.com.web.runners > Runner.java)
 <p> <br />
  
  ### ***Pontos a serem considerados***

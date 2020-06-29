@@ -1,15 +1,13 @@
 package br.com.web.pages;
 
-//import static br.com.web.core.DriverFactory.getDriver;
-
 import org.openqa.selenium.By;
-//import org.openqa.selenium.support.ui.WebDriverWait;
+
 
 import br.com.web.core.BasePage;
 
 public class NavegacaoSubmenusPage extends BasePage {
 
-	//private static WebDriverWait wait;
+	
 
 	// Elementos Web
 	By botaoServicos = By.id("menu-item-290");
